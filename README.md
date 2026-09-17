@@ -1,5 +1,7 @@
 # NOXCAT-Digital-Abyss
 
+## **award**
+
 ## Problem & Goal
 
 NOXCAT-Digital-Abyss turns blockchain and NOXCAT ecosystem knowledge into an interactive pixel-platform experience. It is designed for players who are new to Web3, wallets, and digital assets, making complex concepts easier to explore through gameplay.
